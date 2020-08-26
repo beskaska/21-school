@@ -14,5 +14,5 @@
 	path = filler
 	url = https://github.com/beskaska/filler.git
 [submodule "lemin"]
-	path = lemon
+	path = lemin
 	url = https://github.com/beskaska/lemin.git
