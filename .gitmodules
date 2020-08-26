@@ -13,3 +13,6 @@
 [submodule "filler"]
 	path = filler
 	url = https://github.com/beskaska/filler.git
+[submodule "lemin"]
+	path = lemon
+	url = https://github.com/beskaska/lemin.git
