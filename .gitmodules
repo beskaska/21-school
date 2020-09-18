@@ -16,3 +16,6 @@
 [submodule "lemin"]
 	path = lemin
 	url = https://github.com/beskaska/lemin.git
+[submodule "Corewar"]
+	path = Corewar
+	url = https://github.com/CptnGreen/Corewar.git
